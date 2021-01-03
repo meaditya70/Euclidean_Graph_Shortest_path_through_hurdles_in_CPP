@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="840px" height="640px" xmlns="http://www.w3.org/2000/svg" version="1.1">
+
+<text x="90" y="40" text-anchor="centre" font-size="15px" fill="#aaaaaa">k=5, m=40, n=30, g=10</text>
+
+<circle cx="90" cy="60" r="2" stroke="black" stroke-width="1"/>
+<rect x="90" y="60" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="120" cy="60" r="2" stroke="black" stroke-width="1"/>
+<circle cx="150" cy="60" r="2" stroke="black" stroke-width="1"/>
+<rect x="150" y="60" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="180" cy="60" r="2" stroke="black" stroke-width="1"/>
+<circle cx="210" cy="60" r="2" stroke="black" stroke-width="1"/>
+<circle cx="90" cy="90" r="2" stroke="black" stroke-width="1"/>
+<circle cx="120" cy="90" r="2" stroke="black" stroke-width="1"/>
+<rect x="120" y="90" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="150" cy="90" r="2" stroke="black" stroke-width="1"/>
+<rect x="150" y="90" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="180" cy="90" r="2" stroke="black" stroke-width="1"/>
+<rect x="180" y="90" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="210" cy="90" r="2" stroke="black" stroke-width="1"/>
+<circle cx="90" cy="120" r="2" stroke="black" stroke-width="1"/>
+<circle cx="120" cy="120" r="2" stroke="black" stroke-width="1"/>
+<circle cx="150" cy="120" r="2" stroke="black" stroke-width="1"/>
+<circle cx="180" cy="120" r="2" stroke="black" stroke-width="1"/>
+<circle cx="210" cy="120" r="2" stroke="black" stroke-width="1"/>
+<circle cx="90" cy="150" r="2" stroke="black" stroke-width="1"/>
+<circle cx="120" cy="150" r="2" stroke="black" stroke-width="1"/>
+<circle cx="150" cy="150" r="2" stroke="black" stroke-width="1"/>
+<circle cx="180" cy="150" r="2" stroke="black" stroke-width="1"/>
+<circle cx="210" cy="150" r="2" stroke="black" stroke-width="1"/>
+<line x1="90" y1="150" x2="120" y2="90" style="stroke:rgb(255,0,0);stroke-width:2" />
+<line x1="120" y1="90" x2="150" y2="60" style="stroke:rgb(255,0,0);stroke-width:2" />
+<line x1="150" y1="60" x2="210" y2="60" style="stroke:rgb(255,0,0);stroke-width:2" />
+
+<text x="90" y="170" text-anchor="centre" font-size="15px" fill="red">L=2.236068+1.414214+2.000000=5.650282</text>
+
+</svg>

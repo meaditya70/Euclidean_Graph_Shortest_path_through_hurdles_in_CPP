@@ -1,0 +1,1183 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="1200px" height="1200px" xmlns="http://www.w3.org/2000/svg" version="1.1">
+
+<text x="90" y="40" text-anchor="centre" font-size="15px" fill="#aaaaaa">k=200, m=300, n=300, g=10</text>
+
+<circle cx="90" cy="60" r="2" stroke="black" stroke-width="1"/>
+<circle cx="120" cy="60" r="2" stroke="black" stroke-width="1"/>
+<rect x="120" y="60" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="150" cy="60" r="2" stroke="black" stroke-width="1"/>
+<circle cx="180" cy="60" r="2" stroke="black" stroke-width="1"/>
+<circle cx="210" cy="60" r="2" stroke="black" stroke-width="1"/>
+<rect x="210" y="60" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="240" cy="60" r="2" stroke="black" stroke-width="1"/>
+<rect x="240" y="60" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="270" cy="60" r="2" stroke="black" stroke-width="1"/>
+<circle cx="300" cy="60" r="2" stroke="black" stroke-width="1"/>
+<circle cx="330" cy="60" r="2" stroke="black" stroke-width="1"/>
+<circle cx="360" cy="60" r="2" stroke="black" stroke-width="1"/>
+<circle cx="390" cy="60" r="2" stroke="black" stroke-width="1"/>
+<circle cx="420" cy="60" r="2" stroke="black" stroke-width="1"/>
+<circle cx="450" cy="60" r="2" stroke="black" stroke-width="1"/>
+<rect x="450" y="60" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="480" cy="60" r="2" stroke="black" stroke-width="1"/>
+<circle cx="510" cy="60" r="2" stroke="black" stroke-width="1"/>
+<rect x="510" y="60" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="540" cy="60" r="2" stroke="black" stroke-width="1"/>
+<circle cx="570" cy="60" r="2" stroke="black" stroke-width="1"/>
+<rect x="570" y="60" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="600" cy="60" r="2" stroke="black" stroke-width="1"/>
+<circle cx="630" cy="60" r="2" stroke="black" stroke-width="1"/>
+<circle cx="660" cy="60" r="2" stroke="black" stroke-width="1"/>
+<circle cx="690" cy="60" r="2" stroke="black" stroke-width="1"/>
+<circle cx="720" cy="60" r="2" stroke="black" stroke-width="1"/>
+<circle cx="750" cy="60" r="2" stroke="black" stroke-width="1"/>
+<circle cx="780" cy="60" r="2" stroke="black" stroke-width="1"/>
+<circle cx="810" cy="60" r="2" stroke="black" stroke-width="1"/>
+<circle cx="840" cy="60" r="2" stroke="black" stroke-width="1"/>
+<circle cx="870" cy="60" r="2" stroke="black" stroke-width="1"/>
+<circle cx="900" cy="60" r="2" stroke="black" stroke-width="1"/>
+<circle cx="930" cy="60" r="2" stroke="black" stroke-width="1"/>
+<circle cx="960" cy="60" r="2" stroke="black" stroke-width="1"/>
+<circle cx="990" cy="60" r="2" stroke="black" stroke-width="1"/>
+<circle cx="90" cy="90" r="2" stroke="black" stroke-width="1"/>
+<circle cx="120" cy="90" r="2" stroke="black" stroke-width="1"/>
+<circle cx="150" cy="90" r="2" stroke="black" stroke-width="1"/>
+<circle cx="180" cy="90" r="2" stroke="black" stroke-width="1"/>
+<circle cx="210" cy="90" r="2" stroke="black" stroke-width="1"/>
+<circle cx="240" cy="90" r="2" stroke="black" stroke-width="1"/>
+<circle cx="270" cy="90" r="2" stroke="black" stroke-width="1"/>
+<circle cx="300" cy="90" r="2" stroke="black" stroke-width="1"/>
+<circle cx="330" cy="90" r="2" stroke="black" stroke-width="1"/>
+<circle cx="360" cy="90" r="2" stroke="black" stroke-width="1"/>
+<rect x="360" y="90" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="390" cy="90" r="2" stroke="black" stroke-width="1"/>
+<circle cx="420" cy="90" r="2" stroke="black" stroke-width="1"/>
+<circle cx="450" cy="90" r="2" stroke="black" stroke-width="1"/>
+<circle cx="480" cy="90" r="2" stroke="black" stroke-width="1"/>
+<circle cx="510" cy="90" r="2" stroke="black" stroke-width="1"/>
+<rect x="510" y="90" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="540" cy="90" r="2" stroke="black" stroke-width="1"/>
+<rect x="540" y="90" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="570" cy="90" r="2" stroke="black" stroke-width="1"/>
+<rect x="570" y="90" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="600" cy="90" r="2" stroke="black" stroke-width="1"/>
+<circle cx="630" cy="90" r="2" stroke="black" stroke-width="1"/>
+<circle cx="660" cy="90" r="2" stroke="black" stroke-width="1"/>
+<rect x="660" y="90" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="690" cy="90" r="2" stroke="black" stroke-width="1"/>
+<circle cx="720" cy="90" r="2" stroke="black" stroke-width="1"/>
+<circle cx="750" cy="90" r="2" stroke="black" stroke-width="1"/>
+<circle cx="780" cy="90" r="2" stroke="black" stroke-width="1"/>
+<circle cx="810" cy="90" r="2" stroke="black" stroke-width="1"/>
+<rect x="810" y="90" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="840" cy="90" r="2" stroke="black" stroke-width="1"/>
+<circle cx="870" cy="90" r="2" stroke="black" stroke-width="1"/>
+<rect x="870" y="90" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="900" cy="90" r="2" stroke="black" stroke-width="1"/>
+<circle cx="930" cy="90" r="2" stroke="black" stroke-width="1"/>
+<circle cx="960" cy="90" r="2" stroke="black" stroke-width="1"/>
+<circle cx="990" cy="90" r="2" stroke="black" stroke-width="1"/>
+<circle cx="90" cy="120" r="2" stroke="black" stroke-width="1"/>
+<circle cx="120" cy="120" r="2" stroke="black" stroke-width="1"/>
+<circle cx="150" cy="120" r="2" stroke="black" stroke-width="1"/>
+<circle cx="180" cy="120" r="2" stroke="black" stroke-width="1"/>
+<circle cx="210" cy="120" r="2" stroke="black" stroke-width="1"/>
+<circle cx="240" cy="120" r="2" stroke="black" stroke-width="1"/>
+<circle cx="270" cy="120" r="2" stroke="black" stroke-width="1"/>
+<circle cx="300" cy="120" r="2" stroke="black" stroke-width="1"/>
+<circle cx="330" cy="120" r="2" stroke="black" stroke-width="1"/>
+<circle cx="360" cy="120" r="2" stroke="black" stroke-width="1"/>
+<rect x="360" y="120" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="390" cy="120" r="2" stroke="black" stroke-width="1"/>
+<rect x="390" y="120" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="420" cy="120" r="2" stroke="black" stroke-width="1"/>
+<circle cx="450" cy="120" r="2" stroke="black" stroke-width="1"/>
+<circle cx="480" cy="120" r="2" stroke="black" stroke-width="1"/>
+<circle cx="510" cy="120" r="2" stroke="black" stroke-width="1"/>
+<circle cx="540" cy="120" r="2" stroke="black" stroke-width="1"/>
+<circle cx="570" cy="120" r="2" stroke="black" stroke-width="1"/>
+<rect x="570" y="120" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="600" cy="120" r="2" stroke="black" stroke-width="1"/>
+<rect x="600" y="120" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="630" cy="120" r="2" stroke="black" stroke-width="1"/>
+<circle cx="660" cy="120" r="2" stroke="black" stroke-width="1"/>
+<circle cx="690" cy="120" r="2" stroke="black" stroke-width="1"/>
+<circle cx="720" cy="120" r="2" stroke="black" stroke-width="1"/>
+<circle cx="750" cy="120" r="2" stroke="black" stroke-width="1"/>
+<circle cx="780" cy="120" r="2" stroke="black" stroke-width="1"/>
+<circle cx="810" cy="120" r="2" stroke="black" stroke-width="1"/>
+<circle cx="840" cy="120" r="2" stroke="black" stroke-width="1"/>
+<circle cx="870" cy="120" r="2" stroke="black" stroke-width="1"/>
+<circle cx="900" cy="120" r="2" stroke="black" stroke-width="1"/>
+<circle cx="930" cy="120" r="2" stroke="black" stroke-width="1"/>
+<circle cx="960" cy="120" r="2" stroke="black" stroke-width="1"/>
+<rect x="960" y="120" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="990" cy="120" r="2" stroke="black" stroke-width="1"/>
+<circle cx="90" cy="150" r="2" stroke="black" stroke-width="1"/>
+<circle cx="120" cy="150" r="2" stroke="black" stroke-width="1"/>
+<circle cx="150" cy="150" r="2" stroke="black" stroke-width="1"/>
+<circle cx="180" cy="150" r="2" stroke="black" stroke-width="1"/>
+<circle cx="210" cy="150" r="2" stroke="black" stroke-width="1"/>
+<circle cx="240" cy="150" r="2" stroke="black" stroke-width="1"/>
+<circle cx="270" cy="150" r="2" stroke="black" stroke-width="1"/>
+<circle cx="300" cy="150" r="2" stroke="black" stroke-width="1"/>
+<circle cx="330" cy="150" r="2" stroke="black" stroke-width="1"/>
+<circle cx="360" cy="150" r="2" stroke="black" stroke-width="1"/>
+<rect x="360" y="150" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="390" cy="150" r="2" stroke="black" stroke-width="1"/>
+<rect x="390" y="150" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="420" cy="150" r="2" stroke="black" stroke-width="1"/>
+<circle cx="450" cy="150" r="2" stroke="black" stroke-width="1"/>
+<circle cx="480" cy="150" r="2" stroke="black" stroke-width="1"/>
+<circle cx="510" cy="150" r="2" stroke="black" stroke-width="1"/>
+<rect x="510" y="150" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="540" cy="150" r="2" stroke="black" stroke-width="1"/>
+<circle cx="570" cy="150" r="2" stroke="black" stroke-width="1"/>
+<circle cx="600" cy="150" r="2" stroke="black" stroke-width="1"/>
+<rect x="600" y="150" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="630" cy="150" r="2" stroke="black" stroke-width="1"/>
+<rect x="630" y="150" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="660" cy="150" r="2" stroke="black" stroke-width="1"/>
+<circle cx="690" cy="150" r="2" stroke="black" stroke-width="1"/>
+<circle cx="720" cy="150" r="2" stroke="black" stroke-width="1"/>
+<circle cx="750" cy="150" r="2" stroke="black" stroke-width="1"/>
+<circle cx="780" cy="150" r="2" stroke="black" stroke-width="1"/>
+<circle cx="810" cy="150" r="2" stroke="black" stroke-width="1"/>
+<circle cx="840" cy="150" r="2" stroke="black" stroke-width="1"/>
+<circle cx="870" cy="150" r="2" stroke="black" stroke-width="1"/>
+<rect x="870" y="150" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="900" cy="150" r="2" stroke="black" stroke-width="1"/>
+<circle cx="930" cy="150" r="2" stroke="black" stroke-width="1"/>
+<circle cx="960" cy="150" r="2" stroke="black" stroke-width="1"/>
+<rect x="960" y="150" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="990" cy="150" r="2" stroke="black" stroke-width="1"/>
+<circle cx="90" cy="180" r="2" stroke="black" stroke-width="1"/>
+<rect x="90" y="180" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="120" cy="180" r="2" stroke="black" stroke-width="1"/>
+<circle cx="150" cy="180" r="2" stroke="black" stroke-width="1"/>
+<circle cx="180" cy="180" r="2" stroke="black" stroke-width="1"/>
+<circle cx="210" cy="180" r="2" stroke="black" stroke-width="1"/>
+<circle cx="240" cy="180" r="2" stroke="black" stroke-width="1"/>
+<circle cx="270" cy="180" r="2" stroke="black" stroke-width="1"/>
+<circle cx="300" cy="180" r="2" stroke="black" stroke-width="1"/>
+<circle cx="330" cy="180" r="2" stroke="black" stroke-width="1"/>
+<circle cx="360" cy="180" r="2" stroke="black" stroke-width="1"/>
+<circle cx="390" cy="180" r="2" stroke="black" stroke-width="1"/>
+<circle cx="420" cy="180" r="2" stroke="black" stroke-width="1"/>
+<circle cx="450" cy="180" r="2" stroke="black" stroke-width="1"/>
+<circle cx="480" cy="180" r="2" stroke="black" stroke-width="1"/>
+<circle cx="510" cy="180" r="2" stroke="black" stroke-width="1"/>
+<rect x="510" y="180" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="540" cy="180" r="2" stroke="black" stroke-width="1"/>
+<rect x="540" y="180" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="570" cy="180" r="2" stroke="black" stroke-width="1"/>
+<circle cx="600" cy="180" r="2" stroke="black" stroke-width="1"/>
+<circle cx="630" cy="180" r="2" stroke="black" stroke-width="1"/>
+<circle cx="660" cy="180" r="2" stroke="black" stroke-width="1"/>
+<circle cx="690" cy="180" r="2" stroke="black" stroke-width="1"/>
+<circle cx="720" cy="180" r="2" stroke="black" stroke-width="1"/>
+<circle cx="750" cy="180" r="2" stroke="black" stroke-width="1"/>
+<circle cx="780" cy="180" r="2" stroke="black" stroke-width="1"/>
+<circle cx="810" cy="180" r="2" stroke="black" stroke-width="1"/>
+<rect x="810" y="180" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="840" cy="180" r="2" stroke="black" stroke-width="1"/>
+<circle cx="870" cy="180" r="2" stroke="black" stroke-width="1"/>
+<rect x="870" y="180" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="900" cy="180" r="2" stroke="black" stroke-width="1"/>
+<circle cx="930" cy="180" r="2" stroke="black" stroke-width="1"/>
+<circle cx="960" cy="180" r="2" stroke="black" stroke-width="1"/>
+<rect x="960" y="180" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="990" cy="180" r="2" stroke="black" stroke-width="1"/>
+<circle cx="90" cy="210" r="2" stroke="black" stroke-width="1"/>
+<circle cx="120" cy="210" r="2" stroke="black" stroke-width="1"/>
+<rect x="120" y="210" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="150" cy="210" r="2" stroke="black" stroke-width="1"/>
+<circle cx="180" cy="210" r="2" stroke="black" stroke-width="1"/>
+<circle cx="210" cy="210" r="2" stroke="black" stroke-width="1"/>
+<circle cx="240" cy="210" r="2" stroke="black" stroke-width="1"/>
+<circle cx="270" cy="210" r="2" stroke="black" stroke-width="1"/>
+<rect x="270" y="210" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="300" cy="210" r="2" stroke="black" stroke-width="1"/>
+<circle cx="330" cy="210" r="2" stroke="black" stroke-width="1"/>
+<circle cx="360" cy="210" r="2" stroke="black" stroke-width="1"/>
+<circle cx="390" cy="210" r="2" stroke="black" stroke-width="1"/>
+<circle cx="420" cy="210" r="2" stroke="black" stroke-width="1"/>
+<circle cx="450" cy="210" r="2" stroke="black" stroke-width="1"/>
+<rect x="450" y="210" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="480" cy="210" r="2" stroke="black" stroke-width="1"/>
+<circle cx="510" cy="210" r="2" stroke="black" stroke-width="1"/>
+<circle cx="540" cy="210" r="2" stroke="black" stroke-width="1"/>
+<circle cx="570" cy="210" r="2" stroke="black" stroke-width="1"/>
+<circle cx="600" cy="210" r="2" stroke="black" stroke-width="1"/>
+<circle cx="630" cy="210" r="2" stroke="black" stroke-width="1"/>
+<circle cx="660" cy="210" r="2" stroke="black" stroke-width="1"/>
+<circle cx="690" cy="210" r="2" stroke="black" stroke-width="1"/>
+<circle cx="720" cy="210" r="2" stroke="black" stroke-width="1"/>
+<rect x="720" y="210" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="750" cy="210" r="2" stroke="black" stroke-width="1"/>
+<rect x="750" y="210" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="780" cy="210" r="2" stroke="black" stroke-width="1"/>
+<circle cx="810" cy="210" r="2" stroke="black" stroke-width="1"/>
+<circle cx="840" cy="210" r="2" stroke="black" stroke-width="1"/>
+<circle cx="870" cy="210" r="2" stroke="black" stroke-width="1"/>
+<rect x="870" y="210" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="900" cy="210" r="2" stroke="black" stroke-width="1"/>
+<circle cx="930" cy="210" r="2" stroke="black" stroke-width="1"/>
+<rect x="930" y="210" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="960" cy="210" r="2" stroke="black" stroke-width="1"/>
+<circle cx="990" cy="210" r="2" stroke="black" stroke-width="1"/>
+<circle cx="90" cy="240" r="2" stroke="black" stroke-width="1"/>
+<rect x="90" y="240" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="120" cy="240" r="2" stroke="black" stroke-width="1"/>
+<circle cx="150" cy="240" r="2" stroke="black" stroke-width="1"/>
+<circle cx="180" cy="240" r="2" stroke="black" stroke-width="1"/>
+<circle cx="210" cy="240" r="2" stroke="black" stroke-width="1"/>
+<rect x="210" y="240" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="240" cy="240" r="2" stroke="black" stroke-width="1"/>
+<circle cx="270" cy="240" r="2" stroke="black" stroke-width="1"/>
+<circle cx="300" cy="240" r="2" stroke="black" stroke-width="1"/>
+<rect x="300" y="240" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="330" cy="240" r="2" stroke="black" stroke-width="1"/>
+<circle cx="360" cy="240" r="2" stroke="black" stroke-width="1"/>
+<circle cx="390" cy="240" r="2" stroke="black" stroke-width="1"/>
+<circle cx="420" cy="240" r="2" stroke="black" stroke-width="1"/>
+<circle cx="450" cy="240" r="2" stroke="black" stroke-width="1"/>
+<circle cx="480" cy="240" r="2" stroke="black" stroke-width="1"/>
+<circle cx="510" cy="240" r="2" stroke="black" stroke-width="1"/>
+<circle cx="540" cy="240" r="2" stroke="black" stroke-width="1"/>
+<rect x="540" y="240" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="570" cy="240" r="2" stroke="black" stroke-width="1"/>
+<rect x="570" y="240" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="600" cy="240" r="2" stroke="black" stroke-width="1"/>
+<rect x="600" y="240" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="630" cy="240" r="2" stroke="black" stroke-width="1"/>
+<circle cx="660" cy="240" r="2" stroke="black" stroke-width="1"/>
+<circle cx="690" cy="240" r="2" stroke="black" stroke-width="1"/>
+<rect x="690" y="240" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="720" cy="240" r="2" stroke="black" stroke-width="1"/>
+<circle cx="750" cy="240" r="2" stroke="black" stroke-width="1"/>
+<circle cx="780" cy="240" r="2" stroke="black" stroke-width="1"/>
+<circle cx="810" cy="240" r="2" stroke="black" stroke-width="1"/>
+<circle cx="840" cy="240" r="2" stroke="black" stroke-width="1"/>
+<circle cx="870" cy="240" r="2" stroke="black" stroke-width="1"/>
+<circle cx="900" cy="240" r="2" stroke="black" stroke-width="1"/>
+<circle cx="930" cy="240" r="2" stroke="black" stroke-width="1"/>
+<circle cx="960" cy="240" r="2" stroke="black" stroke-width="1"/>
+<circle cx="990" cy="240" r="2" stroke="black" stroke-width="1"/>
+<circle cx="90" cy="270" r="2" stroke="black" stroke-width="1"/>
+<circle cx="120" cy="270" r="2" stroke="black" stroke-width="1"/>
+<circle cx="150" cy="270" r="2" stroke="black" stroke-width="1"/>
+<rect x="150" y="270" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="180" cy="270" r="2" stroke="black" stroke-width="1"/>
+<circle cx="210" cy="270" r="2" stroke="black" stroke-width="1"/>
+<circle cx="240" cy="270" r="2" stroke="black" stroke-width="1"/>
+<circle cx="270" cy="270" r="2" stroke="black" stroke-width="1"/>
+<rect x="270" y="270" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="300" cy="270" r="2" stroke="black" stroke-width="1"/>
+<circle cx="330" cy="270" r="2" stroke="black" stroke-width="1"/>
+<rect x="330" y="270" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="360" cy="270" r="2" stroke="black" stroke-width="1"/>
+<rect x="360" y="270" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="390" cy="270" r="2" stroke="black" stroke-width="1"/>
+<circle cx="420" cy="270" r="2" stroke="black" stroke-width="1"/>
+<rect x="420" y="270" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="450" cy="270" r="2" stroke="black" stroke-width="1"/>
+<circle cx="480" cy="270" r="2" stroke="black" stroke-width="1"/>
+<circle cx="510" cy="270" r="2" stroke="black" stroke-width="1"/>
+<rect x="510" y="270" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="540" cy="270" r="2" stroke="black" stroke-width="1"/>
+<circle cx="570" cy="270" r="2" stroke="black" stroke-width="1"/>
+<circle cx="600" cy="270" r="2" stroke="black" stroke-width="1"/>
+<circle cx="630" cy="270" r="2" stroke="black" stroke-width="1"/>
+<circle cx="660" cy="270" r="2" stroke="black" stroke-width="1"/>
+<circle cx="690" cy="270" r="2" stroke="black" stroke-width="1"/>
+<circle cx="720" cy="270" r="2" stroke="black" stroke-width="1"/>
+<rect x="720" y="270" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="750" cy="270" r="2" stroke="black" stroke-width="1"/>
+<circle cx="780" cy="270" r="2" stroke="black" stroke-width="1"/>
+<circle cx="810" cy="270" r="2" stroke="black" stroke-width="1"/>
+<circle cx="840" cy="270" r="2" stroke="black" stroke-width="1"/>
+<circle cx="870" cy="270" r="2" stroke="black" stroke-width="1"/>
+<circle cx="900" cy="270" r="2" stroke="black" stroke-width="1"/>
+<circle cx="930" cy="270" r="2" stroke="black" stroke-width="1"/>
+<circle cx="960" cy="270" r="2" stroke="black" stroke-width="1"/>
+<rect x="960" y="270" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="990" cy="270" r="2" stroke="black" stroke-width="1"/>
+<circle cx="90" cy="300" r="2" stroke="black" stroke-width="1"/>
+<circle cx="120" cy="300" r="2" stroke="black" stroke-width="1"/>
+<circle cx="150" cy="300" r="2" stroke="black" stroke-width="1"/>
+<circle cx="180" cy="300" r="2" stroke="black" stroke-width="1"/>
+<circle cx="210" cy="300" r="2" stroke="black" stroke-width="1"/>
+<circle cx="240" cy="300" r="2" stroke="black" stroke-width="1"/>
+<circle cx="270" cy="300" r="2" stroke="black" stroke-width="1"/>
+<rect x="270" y="300" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="300" cy="300" r="2" stroke="black" stroke-width="1"/>
+<circle cx="330" cy="300" r="2" stroke="black" stroke-width="1"/>
+<rect x="330" y="300" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="360" cy="300" r="2" stroke="black" stroke-width="1"/>
+<circle cx="390" cy="300" r="2" stroke="black" stroke-width="1"/>
+<circle cx="420" cy="300" r="2" stroke="black" stroke-width="1"/>
+<rect x="420" y="300" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="450" cy="300" r="2" stroke="black" stroke-width="1"/>
+<rect x="450" y="300" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="480" cy="300" r="2" stroke="black" stroke-width="1"/>
+<rect x="480" y="300" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="510" cy="300" r="2" stroke="black" stroke-width="1"/>
+<rect x="510" y="300" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="540" cy="300" r="2" stroke="black" stroke-width="1"/>
+<circle cx="570" cy="300" r="2" stroke="black" stroke-width="1"/>
+<rect x="570" y="300" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="600" cy="300" r="2" stroke="black" stroke-width="1"/>
+<circle cx="630" cy="300" r="2" stroke="black" stroke-width="1"/>
+<circle cx="660" cy="300" r="2" stroke="black" stroke-width="1"/>
+<circle cx="690" cy="300" r="2" stroke="black" stroke-width="1"/>
+<rect x="690" y="300" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="720" cy="300" r="2" stroke="black" stroke-width="1"/>
+<circle cx="750" cy="300" r="2" stroke="black" stroke-width="1"/>
+<circle cx="780" cy="300" r="2" stroke="black" stroke-width="1"/>
+<rect x="780" y="300" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="810" cy="300" r="2" stroke="black" stroke-width="1"/>
+<circle cx="840" cy="300" r="2" stroke="black" stroke-width="1"/>
+<rect x="840" y="300" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="870" cy="300" r="2" stroke="black" stroke-width="1"/>
+<circle cx="900" cy="300" r="2" stroke="black" stroke-width="1"/>
+<circle cx="930" cy="300" r="2" stroke="black" stroke-width="1"/>
+<circle cx="960" cy="300" r="2" stroke="black" stroke-width="1"/>
+<circle cx="990" cy="300" r="2" stroke="black" stroke-width="1"/>
+<circle cx="90" cy="330" r="2" stroke="black" stroke-width="1"/>
+<circle cx="120" cy="330" r="2" stroke="black" stroke-width="1"/>
+<circle cx="150" cy="330" r="2" stroke="black" stroke-width="1"/>
+<circle cx="180" cy="330" r="2" stroke="black" stroke-width="1"/>
+<circle cx="210" cy="330" r="2" stroke="black" stroke-width="1"/>
+<circle cx="240" cy="330" r="2" stroke="black" stroke-width="1"/>
+<circle cx="270" cy="330" r="2" stroke="black" stroke-width="1"/>
+<rect x="270" y="330" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="300" cy="330" r="2" stroke="black" stroke-width="1"/>
+<circle cx="330" cy="330" r="2" stroke="black" stroke-width="1"/>
+<rect x="330" y="330" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="360" cy="330" r="2" stroke="black" stroke-width="1"/>
+<rect x="360" y="330" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="390" cy="330" r="2" stroke="black" stroke-width="1"/>
+<rect x="390" y="330" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="420" cy="330" r="2" stroke="black" stroke-width="1"/>
+<circle cx="450" cy="330" r="2" stroke="black" stroke-width="1"/>
+<circle cx="480" cy="330" r="2" stroke="black" stroke-width="1"/>
+<circle cx="510" cy="330" r="2" stroke="black" stroke-width="1"/>
+<circle cx="540" cy="330" r="2" stroke="black" stroke-width="1"/>
+<circle cx="570" cy="330" r="2" stroke="black" stroke-width="1"/>
+<rect x="570" y="330" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="600" cy="330" r="2" stroke="black" stroke-width="1"/>
+<circle cx="630" cy="330" r="2" stroke="black" stroke-width="1"/>
+<rect x="630" y="330" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="660" cy="330" r="2" stroke="black" stroke-width="1"/>
+<circle cx="690" cy="330" r="2" stroke="black" stroke-width="1"/>
+<circle cx="720" cy="330" r="2" stroke="black" stroke-width="1"/>
+<circle cx="750" cy="330" r="2" stroke="black" stroke-width="1"/>
+<circle cx="780" cy="330" r="2" stroke="black" stroke-width="1"/>
+<circle cx="810" cy="330" r="2" stroke="black" stroke-width="1"/>
+<circle cx="840" cy="330" r="2" stroke="black" stroke-width="1"/>
+<circle cx="870" cy="330" r="2" stroke="black" stroke-width="1"/>
+<circle cx="900" cy="330" r="2" stroke="black" stroke-width="1"/>
+<rect x="900" y="330" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="930" cy="330" r="2" stroke="black" stroke-width="1"/>
+<circle cx="960" cy="330" r="2" stroke="black" stroke-width="1"/>
+<circle cx="990" cy="330" r="2" stroke="black" stroke-width="1"/>
+<circle cx="90" cy="360" r="2" stroke="black" stroke-width="1"/>
+<circle cx="120" cy="360" r="2" stroke="black" stroke-width="1"/>
+<circle cx="150" cy="360" r="2" stroke="black" stroke-width="1"/>
+<circle cx="180" cy="360" r="2" stroke="black" stroke-width="1"/>
+<circle cx="210" cy="360" r="2" stroke="black" stroke-width="1"/>
+<circle cx="240" cy="360" r="2" stroke="black" stroke-width="1"/>
+<circle cx="270" cy="360" r="2" stroke="black" stroke-width="1"/>
+<circle cx="300" cy="360" r="2" stroke="black" stroke-width="1"/>
+<circle cx="330" cy="360" r="2" stroke="black" stroke-width="1"/>
+<circle cx="360" cy="360" r="2" stroke="black" stroke-width="1"/>
+<rect x="360" y="360" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="390" cy="360" r="2" stroke="black" stroke-width="1"/>
+<circle cx="420" cy="360" r="2" stroke="black" stroke-width="1"/>
+<rect x="420" y="360" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="450" cy="360" r="2" stroke="black" stroke-width="1"/>
+<circle cx="480" cy="360" r="2" stroke="black" stroke-width="1"/>
+<rect x="480" y="360" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="510" cy="360" r="2" stroke="black" stroke-width="1"/>
+<circle cx="540" cy="360" r="2" stroke="black" stroke-width="1"/>
+<rect x="540" y="360" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="570" cy="360" r="2" stroke="black" stroke-width="1"/>
+<circle cx="600" cy="360" r="2" stroke="black" stroke-width="1"/>
+<circle cx="630" cy="360" r="2" stroke="black" stroke-width="1"/>
+<circle cx="660" cy="360" r="2" stroke="black" stroke-width="1"/>
+<circle cx="690" cy="360" r="2" stroke="black" stroke-width="1"/>
+<circle cx="720" cy="360" r="2" stroke="black" stroke-width="1"/>
+<rect x="720" y="360" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="750" cy="360" r="2" stroke="black" stroke-width="1"/>
+<circle cx="780" cy="360" r="2" stroke="black" stroke-width="1"/>
+<circle cx="810" cy="360" r="2" stroke="black" stroke-width="1"/>
+<circle cx="840" cy="360" r="2" stroke="black" stroke-width="1"/>
+<circle cx="870" cy="360" r="2" stroke="black" stroke-width="1"/>
+<rect x="870" y="360" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="900" cy="360" r="2" stroke="black" stroke-width="1"/>
+<circle cx="930" cy="360" r="2" stroke="black" stroke-width="1"/>
+<circle cx="960" cy="360" r="2" stroke="black" stroke-width="1"/>
+<rect x="960" y="360" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="990" cy="360" r="2" stroke="black" stroke-width="1"/>
+<circle cx="90" cy="390" r="2" stroke="black" stroke-width="1"/>
+<circle cx="120" cy="390" r="2" stroke="black" stroke-width="1"/>
+<circle cx="150" cy="390" r="2" stroke="black" stroke-width="1"/>
+<circle cx="180" cy="390" r="2" stroke="black" stroke-width="1"/>
+<rect x="180" y="390" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="210" cy="390" r="2" stroke="black" stroke-width="1"/>
+<circle cx="240" cy="390" r="2" stroke="black" stroke-width="1"/>
+<circle cx="270" cy="390" r="2" stroke="black" stroke-width="1"/>
+<circle cx="300" cy="390" r="2" stroke="black" stroke-width="1"/>
+<circle cx="330" cy="390" r="2" stroke="black" stroke-width="1"/>
+<rect x="330" y="390" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="360" cy="390" r="2" stroke="black" stroke-width="1"/>
+<circle cx="390" cy="390" r="2" stroke="black" stroke-width="1"/>
+<circle cx="420" cy="390" r="2" stroke="black" stroke-width="1"/>
+<circle cx="450" cy="390" r="2" stroke="black" stroke-width="1"/>
+<circle cx="480" cy="390" r="2" stroke="black" stroke-width="1"/>
+<circle cx="510" cy="390" r="2" stroke="black" stroke-width="1"/>
+<circle cx="540" cy="390" r="2" stroke="black" stroke-width="1"/>
+<circle cx="570" cy="390" r="2" stroke="black" stroke-width="1"/>
+<circle cx="600" cy="390" r="2" stroke="black" stroke-width="1"/>
+<circle cx="630" cy="390" r="2" stroke="black" stroke-width="1"/>
+<circle cx="660" cy="390" r="2" stroke="black" stroke-width="1"/>
+<rect x="660" y="390" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="690" cy="390" r="2" stroke="black" stroke-width="1"/>
+<rect x="690" y="390" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="720" cy="390" r="2" stroke="black" stroke-width="1"/>
+<circle cx="750" cy="390" r="2" stroke="black" stroke-width="1"/>
+<rect x="750" y="390" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="780" cy="390" r="2" stroke="black" stroke-width="1"/>
+<circle cx="810" cy="390" r="2" stroke="black" stroke-width="1"/>
+<circle cx="840" cy="390" r="2" stroke="black" stroke-width="1"/>
+<circle cx="870" cy="390" r="2" stroke="black" stroke-width="1"/>
+<circle cx="900" cy="390" r="2" stroke="black" stroke-width="1"/>
+<rect x="900" y="390" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="930" cy="390" r="2" stroke="black" stroke-width="1"/>
+<circle cx="960" cy="390" r="2" stroke="black" stroke-width="1"/>
+<circle cx="990" cy="390" r="2" stroke="black" stroke-width="1"/>
+<circle cx="90" cy="420" r="2" stroke="black" stroke-width="1"/>
+<circle cx="120" cy="420" r="2" stroke="black" stroke-width="1"/>
+<circle cx="150" cy="420" r="2" stroke="black" stroke-width="1"/>
+<circle cx="180" cy="420" r="2" stroke="black" stroke-width="1"/>
+<circle cx="210" cy="420" r="2" stroke="black" stroke-width="1"/>
+<circle cx="240" cy="420" r="2" stroke="black" stroke-width="1"/>
+<circle cx="270" cy="420" r="2" stroke="black" stroke-width="1"/>
+<rect x="270" y="420" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="300" cy="420" r="2" stroke="black" stroke-width="1"/>
+<circle cx="330" cy="420" r="2" stroke="black" stroke-width="1"/>
+<circle cx="360" cy="420" r="2" stroke="black" stroke-width="1"/>
+<circle cx="390" cy="420" r="2" stroke="black" stroke-width="1"/>
+<circle cx="420" cy="420" r="2" stroke="black" stroke-width="1"/>
+<circle cx="450" cy="420" r="2" stroke="black" stroke-width="1"/>
+<circle cx="480" cy="420" r="2" stroke="black" stroke-width="1"/>
+<rect x="480" y="420" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="510" cy="420" r="2" stroke="black" stroke-width="1"/>
+<circle cx="540" cy="420" r="2" stroke="black" stroke-width="1"/>
+<circle cx="570" cy="420" r="2" stroke="black" stroke-width="1"/>
+<rect x="570" y="420" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="600" cy="420" r="2" stroke="black" stroke-width="1"/>
+<circle cx="630" cy="420" r="2" stroke="black" stroke-width="1"/>
+<circle cx="660" cy="420" r="2" stroke="black" stroke-width="1"/>
+<circle cx="690" cy="420" r="2" stroke="black" stroke-width="1"/>
+<circle cx="720" cy="420" r="2" stroke="black" stroke-width="1"/>
+<circle cx="750" cy="420" r="2" stroke="black" stroke-width="1"/>
+<rect x="750" y="420" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="780" cy="420" r="2" stroke="black" stroke-width="1"/>
+<circle cx="810" cy="420" r="2" stroke="black" stroke-width="1"/>
+<circle cx="840" cy="420" r="2" stroke="black" stroke-width="1"/>
+<circle cx="870" cy="420" r="2" stroke="black" stroke-width="1"/>
+<circle cx="900" cy="420" r="2" stroke="black" stroke-width="1"/>
+<rect x="900" y="420" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="930" cy="420" r="2" stroke="black" stroke-width="1"/>
+<circle cx="960" cy="420" r="2" stroke="black" stroke-width="1"/>
+<rect x="960" y="420" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="990" cy="420" r="2" stroke="black" stroke-width="1"/>
+<circle cx="90" cy="450" r="2" stroke="black" stroke-width="1"/>
+<circle cx="120" cy="450" r="2" stroke="black" stroke-width="1"/>
+<circle cx="150" cy="450" r="2" stroke="black" stroke-width="1"/>
+<rect x="150" y="450" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="180" cy="450" r="2" stroke="black" stroke-width="1"/>
+<rect x="180" y="450" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="210" cy="450" r="2" stroke="black" stroke-width="1"/>
+<circle cx="240" cy="450" r="2" stroke="black" stroke-width="1"/>
+<circle cx="270" cy="450" r="2" stroke="black" stroke-width="1"/>
+<circle cx="300" cy="450" r="2" stroke="black" stroke-width="1"/>
+<circle cx="330" cy="450" r="2" stroke="black" stroke-width="1"/>
+<circle cx="360" cy="450" r="2" stroke="black" stroke-width="1"/>
+<circle cx="390" cy="450" r="2" stroke="black" stroke-width="1"/>
+<circle cx="420" cy="450" r="2" stroke="black" stroke-width="1"/>
+<circle cx="450" cy="450" r="2" stroke="black" stroke-width="1"/>
+<circle cx="480" cy="450" r="2" stroke="black" stroke-width="1"/>
+<rect x="480" y="450" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="510" cy="450" r="2" stroke="black" stroke-width="1"/>
+<rect x="510" y="450" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="540" cy="450" r="2" stroke="black" stroke-width="1"/>
+<rect x="540" y="450" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="570" cy="450" r="2" stroke="black" stroke-width="1"/>
+<circle cx="600" cy="450" r="2" stroke="black" stroke-width="1"/>
+<circle cx="630" cy="450" r="2" stroke="black" stroke-width="1"/>
+<circle cx="660" cy="450" r="2" stroke="black" stroke-width="1"/>
+<rect x="660" y="450" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="690" cy="450" r="2" stroke="black" stroke-width="1"/>
+<circle cx="720" cy="450" r="2" stroke="black" stroke-width="1"/>
+<circle cx="750" cy="450" r="2" stroke="black" stroke-width="1"/>
+<circle cx="780" cy="450" r="2" stroke="black" stroke-width="1"/>
+<circle cx="810" cy="450" r="2" stroke="black" stroke-width="1"/>
+<circle cx="840" cy="450" r="2" stroke="black" stroke-width="1"/>
+<circle cx="870" cy="450" r="2" stroke="black" stroke-width="1"/>
+<circle cx="900" cy="450" r="2" stroke="black" stroke-width="1"/>
+<circle cx="930" cy="450" r="2" stroke="black" stroke-width="1"/>
+<circle cx="960" cy="450" r="2" stroke="black" stroke-width="1"/>
+<circle cx="990" cy="450" r="2" stroke="black" stroke-width="1"/>
+<circle cx="90" cy="480" r="2" stroke="black" stroke-width="1"/>
+<rect x="90" y="480" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="120" cy="480" r="2" stroke="black" stroke-width="1"/>
+<rect x="120" y="480" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="150" cy="480" r="2" stroke="black" stroke-width="1"/>
+<circle cx="180" cy="480" r="2" stroke="black" stroke-width="1"/>
+<circle cx="210" cy="480" r="2" stroke="black" stroke-width="1"/>
+<circle cx="240" cy="480" r="2" stroke="black" stroke-width="1"/>
+<circle cx="270" cy="480" r="2" stroke="black" stroke-width="1"/>
+<circle cx="300" cy="480" r="2" stroke="black" stroke-width="1"/>
+<circle cx="330" cy="480" r="2" stroke="black" stroke-width="1"/>
+<rect x="330" y="480" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="360" cy="480" r="2" stroke="black" stroke-width="1"/>
+<circle cx="390" cy="480" r="2" stroke="black" stroke-width="1"/>
+<rect x="390" y="480" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="420" cy="480" r="2" stroke="black" stroke-width="1"/>
+<circle cx="450" cy="480" r="2" stroke="black" stroke-width="1"/>
+<rect x="450" y="480" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="480" cy="480" r="2" stroke="black" stroke-width="1"/>
+<rect x="480" y="480" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="510" cy="480" r="2" stroke="black" stroke-width="1"/>
+<rect x="510" y="480" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="540" cy="480" r="2" stroke="black" stroke-width="1"/>
+<circle cx="570" cy="480" r="2" stroke="black" stroke-width="1"/>
+<circle cx="600" cy="480" r="2" stroke="black" stroke-width="1"/>
+<circle cx="630" cy="480" r="2" stroke="black" stroke-width="1"/>
+<circle cx="660" cy="480" r="2" stroke="black" stroke-width="1"/>
+<circle cx="690" cy="480" r="2" stroke="black" stroke-width="1"/>
+<circle cx="720" cy="480" r="2" stroke="black" stroke-width="1"/>
+<rect x="720" y="480" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="750" cy="480" r="2" stroke="black" stroke-width="1"/>
+<circle cx="780" cy="480" r="2" stroke="black" stroke-width="1"/>
+<circle cx="810" cy="480" r="2" stroke="black" stroke-width="1"/>
+<circle cx="840" cy="480" r="2" stroke="black" stroke-width="1"/>
+<circle cx="870" cy="480" r="2" stroke="black" stroke-width="1"/>
+<circle cx="900" cy="480" r="2" stroke="black" stroke-width="1"/>
+<circle cx="930" cy="480" r="2" stroke="black" stroke-width="1"/>
+<circle cx="960" cy="480" r="2" stroke="black" stroke-width="1"/>
+<rect x="960" y="480" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="990" cy="480" r="2" stroke="black" stroke-width="1"/>
+<circle cx="90" cy="510" r="2" stroke="black" stroke-width="1"/>
+<circle cx="120" cy="510" r="2" stroke="black" stroke-width="1"/>
+<circle cx="150" cy="510" r="2" stroke="black" stroke-width="1"/>
+<circle cx="180" cy="510" r="2" stroke="black" stroke-width="1"/>
+<circle cx="210" cy="510" r="2" stroke="black" stroke-width="1"/>
+<circle cx="240" cy="510" r="2" stroke="black" stroke-width="1"/>
+<circle cx="270" cy="510" r="2" stroke="black" stroke-width="1"/>
+<rect x="270" y="510" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="300" cy="510" r="2" stroke="black" stroke-width="1"/>
+<circle cx="330" cy="510" r="2" stroke="black" stroke-width="1"/>
+<circle cx="360" cy="510" r="2" stroke="black" stroke-width="1"/>
+<circle cx="390" cy="510" r="2" stroke="black" stroke-width="1"/>
+<circle cx="420" cy="510" r="2" stroke="black" stroke-width="1"/>
+<circle cx="450" cy="510" r="2" stroke="black" stroke-width="1"/>
+<rect x="450" y="510" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="480" cy="510" r="2" stroke="black" stroke-width="1"/>
+<circle cx="510" cy="510" r="2" stroke="black" stroke-width="1"/>
+<circle cx="540" cy="510" r="2" stroke="black" stroke-width="1"/>
+<rect x="540" y="510" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="570" cy="510" r="2" stroke="black" stroke-width="1"/>
+<circle cx="600" cy="510" r="2" stroke="black" stroke-width="1"/>
+<circle cx="630" cy="510" r="2" stroke="black" stroke-width="1"/>
+<circle cx="660" cy="510" r="2" stroke="black" stroke-width="1"/>
+<circle cx="690" cy="510" r="2" stroke="black" stroke-width="1"/>
+<circle cx="720" cy="510" r="2" stroke="black" stroke-width="1"/>
+<circle cx="750" cy="510" r="2" stroke="black" stroke-width="1"/>
+<circle cx="780" cy="510" r="2" stroke="black" stroke-width="1"/>
+<circle cx="810" cy="510" r="2" stroke="black" stroke-width="1"/>
+<rect x="810" y="510" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="840" cy="510" r="2" stroke="black" stroke-width="1"/>
+<rect x="840" y="510" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="870" cy="510" r="2" stroke="black" stroke-width="1"/>
+<circle cx="900" cy="510" r="2" stroke="black" stroke-width="1"/>
+<circle cx="930" cy="510" r="2" stroke="black" stroke-width="1"/>
+<circle cx="960" cy="510" r="2" stroke="black" stroke-width="1"/>
+<circle cx="990" cy="510" r="2" stroke="black" stroke-width="1"/>
+<circle cx="90" cy="540" r="2" stroke="black" stroke-width="1"/>
+<circle cx="120" cy="540" r="2" stroke="black" stroke-width="1"/>
+<circle cx="150" cy="540" r="2" stroke="black" stroke-width="1"/>
+<rect x="150" y="540" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="180" cy="540" r="2" stroke="black" stroke-width="1"/>
+<circle cx="210" cy="540" r="2" stroke="black" stroke-width="1"/>
+<circle cx="240" cy="540" r="2" stroke="black" stroke-width="1"/>
+<circle cx="270" cy="540" r="2" stroke="black" stroke-width="1"/>
+<circle cx="300" cy="540" r="2" stroke="black" stroke-width="1"/>
+<circle cx="330" cy="540" r="2" stroke="black" stroke-width="1"/>
+<rect x="330" y="540" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="360" cy="540" r="2" stroke="black" stroke-width="1"/>
+<rect x="360" y="540" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="390" cy="540" r="2" stroke="black" stroke-width="1"/>
+<circle cx="420" cy="540" r="2" stroke="black" stroke-width="1"/>
+<circle cx="450" cy="540" r="2" stroke="black" stroke-width="1"/>
+<circle cx="480" cy="540" r="2" stroke="black" stroke-width="1"/>
+<rect x="480" y="540" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="510" cy="540" r="2" stroke="black" stroke-width="1"/>
+<rect x="510" y="540" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="540" cy="540" r="2" stroke="black" stroke-width="1"/>
+<circle cx="570" cy="540" r="2" stroke="black" stroke-width="1"/>
+<circle cx="600" cy="540" r="2" stroke="black" stroke-width="1"/>
+<circle cx="630" cy="540" r="2" stroke="black" stroke-width="1"/>
+<circle cx="660" cy="540" r="2" stroke="black" stroke-width="1"/>
+<circle cx="690" cy="540" r="2" stroke="black" stroke-width="1"/>
+<circle cx="720" cy="540" r="2" stroke="black" stroke-width="1"/>
+<circle cx="750" cy="540" r="2" stroke="black" stroke-width="1"/>
+<rect x="750" y="540" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="780" cy="540" r="2" stroke="black" stroke-width="1"/>
+<rect x="780" y="540" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="810" cy="540" r="2" stroke="black" stroke-width="1"/>
+<circle cx="840" cy="540" r="2" stroke="black" stroke-width="1"/>
+<circle cx="870" cy="540" r="2" stroke="black" stroke-width="1"/>
+<circle cx="900" cy="540" r="2" stroke="black" stroke-width="1"/>
+<rect x="900" y="540" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="930" cy="540" r="2" stroke="black" stroke-width="1"/>
+<circle cx="960" cy="540" r="2" stroke="black" stroke-width="1"/>
+<rect x="960" y="540" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="990" cy="540" r="2" stroke="black" stroke-width="1"/>
+<circle cx="90" cy="570" r="2" stroke="black" stroke-width="1"/>
+<circle cx="120" cy="570" r="2" stroke="black" stroke-width="1"/>
+<circle cx="150" cy="570" r="2" stroke="black" stroke-width="1"/>
+<circle cx="180" cy="570" r="2" stroke="black" stroke-width="1"/>
+<rect x="180" y="570" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="210" cy="570" r="2" stroke="black" stroke-width="1"/>
+<circle cx="240" cy="570" r="2" stroke="black" stroke-width="1"/>
+<rect x="240" y="570" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="270" cy="570" r="2" stroke="black" stroke-width="1"/>
+<circle cx="300" cy="570" r="2" stroke="black" stroke-width="1"/>
+<circle cx="330" cy="570" r="2" stroke="black" stroke-width="1"/>
+<circle cx="360" cy="570" r="2" stroke="black" stroke-width="1"/>
+<circle cx="390" cy="570" r="2" stroke="black" stroke-width="1"/>
+<circle cx="420" cy="570" r="2" stroke="black" stroke-width="1"/>
+<circle cx="450" cy="570" r="2" stroke="black" stroke-width="1"/>
+<rect x="450" y="570" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="480" cy="570" r="2" stroke="black" stroke-width="1"/>
+<rect x="480" y="570" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="510" cy="570" r="2" stroke="black" stroke-width="1"/>
+<circle cx="540" cy="570" r="2" stroke="black" stroke-width="1"/>
+<circle cx="570" cy="570" r="2" stroke="black" stroke-width="1"/>
+<circle cx="600" cy="570" r="2" stroke="black" stroke-width="1"/>
+<circle cx="630" cy="570" r="2" stroke="black" stroke-width="1"/>
+<rect x="630" y="570" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="660" cy="570" r="2" stroke="black" stroke-width="1"/>
+<circle cx="690" cy="570" r="2" stroke="black" stroke-width="1"/>
+<rect x="690" y="570" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="720" cy="570" r="2" stroke="black" stroke-width="1"/>
+<circle cx="750" cy="570" r="2" stroke="black" stroke-width="1"/>
+<circle cx="780" cy="570" r="2" stroke="black" stroke-width="1"/>
+<circle cx="810" cy="570" r="2" stroke="black" stroke-width="1"/>
+<circle cx="840" cy="570" r="2" stroke="black" stroke-width="1"/>
+<circle cx="870" cy="570" r="2" stroke="black" stroke-width="1"/>
+<circle cx="900" cy="570" r="2" stroke="black" stroke-width="1"/>
+<circle cx="930" cy="570" r="2" stroke="black" stroke-width="1"/>
+<circle cx="960" cy="570" r="2" stroke="black" stroke-width="1"/>
+<circle cx="990" cy="570" r="2" stroke="black" stroke-width="1"/>
+<circle cx="90" cy="600" r="2" stroke="black" stroke-width="1"/>
+<rect x="90" y="600" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="120" cy="600" r="2" stroke="black" stroke-width="1"/>
+<circle cx="150" cy="600" r="2" stroke="black" stroke-width="1"/>
+<rect x="150" y="600" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="180" cy="600" r="2" stroke="black" stroke-width="1"/>
+<circle cx="210" cy="600" r="2" stroke="black" stroke-width="1"/>
+<circle cx="240" cy="600" r="2" stroke="black" stroke-width="1"/>
+<rect x="240" y="600" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="270" cy="600" r="2" stroke="black" stroke-width="1"/>
+<rect x="270" y="600" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="300" cy="600" r="2" stroke="black" stroke-width="1"/>
+<rect x="300" y="600" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="330" cy="600" r="2" stroke="black" stroke-width="1"/>
+<circle cx="360" cy="600" r="2" stroke="black" stroke-width="1"/>
+<circle cx="390" cy="600" r="2" stroke="black" stroke-width="1"/>
+<circle cx="420" cy="600" r="2" stroke="black" stroke-width="1"/>
+<circle cx="450" cy="600" r="2" stroke="black" stroke-width="1"/>
+<rect x="450" y="600" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="480" cy="600" r="2" stroke="black" stroke-width="1"/>
+<rect x="480" y="600" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="510" cy="600" r="2" stroke="black" stroke-width="1"/>
+<circle cx="540" cy="600" r="2" stroke="black" stroke-width="1"/>
+<circle cx="570" cy="600" r="2" stroke="black" stroke-width="1"/>
+<circle cx="600" cy="600" r="2" stroke="black" stroke-width="1"/>
+<circle cx="630" cy="600" r="2" stroke="black" stroke-width="1"/>
+<rect x="630" y="600" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="660" cy="600" r="2" stroke="black" stroke-width="1"/>
+<rect x="660" y="600" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="690" cy="600" r="2" stroke="black" stroke-width="1"/>
+<circle cx="720" cy="600" r="2" stroke="black" stroke-width="1"/>
+<circle cx="750" cy="600" r="2" stroke="black" stroke-width="1"/>
+<rect x="750" y="600" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="780" cy="600" r="2" stroke="black" stroke-width="1"/>
+<circle cx="810" cy="600" r="2" stroke="black" stroke-width="1"/>
+<circle cx="840" cy="600" r="2" stroke="black" stroke-width="1"/>
+<circle cx="870" cy="600" r="2" stroke="black" stroke-width="1"/>
+<rect x="870" y="600" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="900" cy="600" r="2" stroke="black" stroke-width="1"/>
+<circle cx="930" cy="600" r="2" stroke="black" stroke-width="1"/>
+<circle cx="960" cy="600" r="2" stroke="black" stroke-width="1"/>
+<circle cx="990" cy="600" r="2" stroke="black" stroke-width="1"/>
+<circle cx="90" cy="630" r="2" stroke="black" stroke-width="1"/>
+<circle cx="120" cy="630" r="2" stroke="black" stroke-width="1"/>
+<circle cx="150" cy="630" r="2" stroke="black" stroke-width="1"/>
+<rect x="150" y="630" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="180" cy="630" r="2" stroke="black" stroke-width="1"/>
+<circle cx="210" cy="630" r="2" stroke="black" stroke-width="1"/>
+<circle cx="240" cy="630" r="2" stroke="black" stroke-width="1"/>
+<circle cx="270" cy="630" r="2" stroke="black" stroke-width="1"/>
+<circle cx="300" cy="630" r="2" stroke="black" stroke-width="1"/>
+<circle cx="330" cy="630" r="2" stroke="black" stroke-width="1"/>
+<circle cx="360" cy="630" r="2" stroke="black" stroke-width="1"/>
+<circle cx="390" cy="630" r="2" stroke="black" stroke-width="1"/>
+<circle cx="420" cy="630" r="2" stroke="black" stroke-width="1"/>
+<circle cx="450" cy="630" r="2" stroke="black" stroke-width="1"/>
+<circle cx="480" cy="630" r="2" stroke="black" stroke-width="1"/>
+<circle cx="510" cy="630" r="2" stroke="black" stroke-width="1"/>
+<rect x="510" y="630" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="540" cy="630" r="2" stroke="black" stroke-width="1"/>
+<circle cx="570" cy="630" r="2" stroke="black" stroke-width="1"/>
+<circle cx="600" cy="630" r="2" stroke="black" stroke-width="1"/>
+<circle cx="630" cy="630" r="2" stroke="black" stroke-width="1"/>
+<rect x="630" y="630" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="660" cy="630" r="2" stroke="black" stroke-width="1"/>
+<circle cx="690" cy="630" r="2" stroke="black" stroke-width="1"/>
+<rect x="690" y="630" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="720" cy="630" r="2" stroke="black" stroke-width="1"/>
+<circle cx="750" cy="630" r="2" stroke="black" stroke-width="1"/>
+<circle cx="780" cy="630" r="2" stroke="black" stroke-width="1"/>
+<circle cx="810" cy="630" r="2" stroke="black" stroke-width="1"/>
+<circle cx="840" cy="630" r="2" stroke="black" stroke-width="1"/>
+<circle cx="870" cy="630" r="2" stroke="black" stroke-width="1"/>
+<circle cx="900" cy="630" r="2" stroke="black" stroke-width="1"/>
+<circle cx="930" cy="630" r="2" stroke="black" stroke-width="1"/>
+<circle cx="960" cy="630" r="2" stroke="black" stroke-width="1"/>
+<rect x="960" y="630" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="990" cy="630" r="2" stroke="black" stroke-width="1"/>
+<circle cx="90" cy="660" r="2" stroke="black" stroke-width="1"/>
+<circle cx="120" cy="660" r="2" stroke="black" stroke-width="1"/>
+<rect x="120" y="660" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="150" cy="660" r="2" stroke="black" stroke-width="1"/>
+<rect x="150" y="660" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="180" cy="660" r="2" stroke="black" stroke-width="1"/>
+<rect x="180" y="660" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="210" cy="660" r="2" stroke="black" stroke-width="1"/>
+<circle cx="240" cy="660" r="2" stroke="black" stroke-width="1"/>
+<circle cx="270" cy="660" r="2" stroke="black" stroke-width="1"/>
+<circle cx="300" cy="660" r="2" stroke="black" stroke-width="1"/>
+<circle cx="330" cy="660" r="2" stroke="black" stroke-width="1"/>
+<rect x="330" y="660" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="360" cy="660" r="2" stroke="black" stroke-width="1"/>
+<circle cx="390" cy="660" r="2" stroke="black" stroke-width="1"/>
+<circle cx="420" cy="660" r="2" stroke="black" stroke-width="1"/>
+<circle cx="450" cy="660" r="2" stroke="black" stroke-width="1"/>
+<circle cx="480" cy="660" r="2" stroke="black" stroke-width="1"/>
+<circle cx="510" cy="660" r="2" stroke="black" stroke-width="1"/>
+<circle cx="540" cy="660" r="2" stroke="black" stroke-width="1"/>
+<circle cx="570" cy="660" r="2" stroke="black" stroke-width="1"/>
+<circle cx="600" cy="660" r="2" stroke="black" stroke-width="1"/>
+<rect x="600" y="660" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="630" cy="660" r="2" stroke="black" stroke-width="1"/>
+<circle cx="660" cy="660" r="2" stroke="black" stroke-width="1"/>
+<circle cx="690" cy="660" r="2" stroke="black" stroke-width="1"/>
+<circle cx="720" cy="660" r="2" stroke="black" stroke-width="1"/>
+<circle cx="750" cy="660" r="2" stroke="black" stroke-width="1"/>
+<circle cx="780" cy="660" r="2" stroke="black" stroke-width="1"/>
+<circle cx="810" cy="660" r="2" stroke="black" stroke-width="1"/>
+<rect x="810" y="660" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="840" cy="660" r="2" stroke="black" stroke-width="1"/>
+<circle cx="870" cy="660" r="2" stroke="black" stroke-width="1"/>
+<rect x="870" y="660" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="900" cy="660" r="2" stroke="black" stroke-width="1"/>
+<circle cx="930" cy="660" r="2" stroke="black" stroke-width="1"/>
+<circle cx="960" cy="660" r="2" stroke="black" stroke-width="1"/>
+<circle cx="990" cy="660" r="2" stroke="black" stroke-width="1"/>
+<circle cx="90" cy="690" r="2" stroke="black" stroke-width="1"/>
+<circle cx="120" cy="690" r="2" stroke="black" stroke-width="1"/>
+<circle cx="150" cy="690" r="2" stroke="black" stroke-width="1"/>
+<circle cx="180" cy="690" r="2" stroke="black" stroke-width="1"/>
+<rect x="180" y="690" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="210" cy="690" r="2" stroke="black" stroke-width="1"/>
+<circle cx="240" cy="690" r="2" stroke="black" stroke-width="1"/>
+<circle cx="270" cy="690" r="2" stroke="black" stroke-width="1"/>
+<rect x="270" y="690" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="300" cy="690" r="2" stroke="black" stroke-width="1"/>
+<circle cx="330" cy="690" r="2" stroke="black" stroke-width="1"/>
+<circle cx="360" cy="690" r="2" stroke="black" stroke-width="1"/>
+<circle cx="390" cy="690" r="2" stroke="black" stroke-width="1"/>
+<circle cx="420" cy="690" r="2" stroke="black" stroke-width="1"/>
+<circle cx="450" cy="690" r="2" stroke="black" stroke-width="1"/>
+<circle cx="480" cy="690" r="2" stroke="black" stroke-width="1"/>
+<circle cx="510" cy="690" r="2" stroke="black" stroke-width="1"/>
+<rect x="510" y="690" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="540" cy="690" r="2" stroke="black" stroke-width="1"/>
+<circle cx="570" cy="690" r="2" stroke="black" stroke-width="1"/>
+<circle cx="600" cy="690" r="2" stroke="black" stroke-width="1"/>
+<rect x="600" y="690" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="630" cy="690" r="2" stroke="black" stroke-width="1"/>
+<circle cx="660" cy="690" r="2" stroke="black" stroke-width="1"/>
+<circle cx="690" cy="690" r="2" stroke="black" stroke-width="1"/>
+<circle cx="720" cy="690" r="2" stroke="black" stroke-width="1"/>
+<circle cx="750" cy="690" r="2" stroke="black" stroke-width="1"/>
+<circle cx="780" cy="690" r="2" stroke="black" stroke-width="1"/>
+<circle cx="810" cy="690" r="2" stroke="black" stroke-width="1"/>
+<circle cx="840" cy="690" r="2" stroke="black" stroke-width="1"/>
+<circle cx="870" cy="690" r="2" stroke="black" stroke-width="1"/>
+<rect x="870" y="690" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="900" cy="690" r="2" stroke="black" stroke-width="1"/>
+<circle cx="930" cy="690" r="2" stroke="black" stroke-width="1"/>
+<rect x="930" y="690" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="960" cy="690" r="2" stroke="black" stroke-width="1"/>
+<rect x="960" y="690" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="990" cy="690" r="2" stroke="black" stroke-width="1"/>
+<circle cx="90" cy="720" r="2" stroke="black" stroke-width="1"/>
+<circle cx="120" cy="720" r="2" stroke="black" stroke-width="1"/>
+<rect x="120" y="720" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="150" cy="720" r="2" stroke="black" stroke-width="1"/>
+<circle cx="180" cy="720" r="2" stroke="black" stroke-width="1"/>
+<circle cx="210" cy="720" r="2" stroke="black" stroke-width="1"/>
+<rect x="210" y="720" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="240" cy="720" r="2" stroke="black" stroke-width="1"/>
+<circle cx="270" cy="720" r="2" stroke="black" stroke-width="1"/>
+<circle cx="300" cy="720" r="2" stroke="black" stroke-width="1"/>
+<circle cx="330" cy="720" r="2" stroke="black" stroke-width="1"/>
+<circle cx="360" cy="720" r="2" stroke="black" stroke-width="1"/>
+<circle cx="390" cy="720" r="2" stroke="black" stroke-width="1"/>
+<rect x="390" y="720" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="420" cy="720" r="2" stroke="black" stroke-width="1"/>
+<circle cx="450" cy="720" r="2" stroke="black" stroke-width="1"/>
+<circle cx="480" cy="720" r="2" stroke="black" stroke-width="1"/>
+<circle cx="510" cy="720" r="2" stroke="black" stroke-width="1"/>
+<circle cx="540" cy="720" r="2" stroke="black" stroke-width="1"/>
+<circle cx="570" cy="720" r="2" stroke="black" stroke-width="1"/>
+<circle cx="600" cy="720" r="2" stroke="black" stroke-width="1"/>
+<circle cx="630" cy="720" r="2" stroke="black" stroke-width="1"/>
+<circle cx="660" cy="720" r="2" stroke="black" stroke-width="1"/>
+<rect x="660" y="720" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="690" cy="720" r="2" stroke="black" stroke-width="1"/>
+<circle cx="720" cy="720" r="2" stroke="black" stroke-width="1"/>
+<circle cx="750" cy="720" r="2" stroke="black" stroke-width="1"/>
+<circle cx="780" cy="720" r="2" stroke="black" stroke-width="1"/>
+<rect x="780" y="720" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="810" cy="720" r="2" stroke="black" stroke-width="1"/>
+<circle cx="840" cy="720" r="2" stroke="black" stroke-width="1"/>
+<circle cx="870" cy="720" r="2" stroke="black" stroke-width="1"/>
+<circle cx="900" cy="720" r="2" stroke="black" stroke-width="1"/>
+<circle cx="930" cy="720" r="2" stroke="black" stroke-width="1"/>
+<rect x="930" y="720" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="960" cy="720" r="2" stroke="black" stroke-width="1"/>
+<circle cx="990" cy="720" r="2" stroke="black" stroke-width="1"/>
+<circle cx="90" cy="750" r="2" stroke="black" stroke-width="1"/>
+<rect x="90" y="750" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="120" cy="750" r="2" stroke="black" stroke-width="1"/>
+<circle cx="150" cy="750" r="2" stroke="black" stroke-width="1"/>
+<circle cx="180" cy="750" r="2" stroke="black" stroke-width="1"/>
+<circle cx="210" cy="750" r="2" stroke="black" stroke-width="1"/>
+<circle cx="240" cy="750" r="2" stroke="black" stroke-width="1"/>
+<circle cx="270" cy="750" r="2" stroke="black" stroke-width="1"/>
+<rect x="270" y="750" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="300" cy="750" r="2" stroke="black" stroke-width="1"/>
+<circle cx="330" cy="750" r="2" stroke="black" stroke-width="1"/>
+<rect x="330" y="750" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="360" cy="750" r="2" stroke="black" stroke-width="1"/>
+<circle cx="390" cy="750" r="2" stroke="black" stroke-width="1"/>
+<circle cx="420" cy="750" r="2" stroke="black" stroke-width="1"/>
+<circle cx="450" cy="750" r="2" stroke="black" stroke-width="1"/>
+<circle cx="480" cy="750" r="2" stroke="black" stroke-width="1"/>
+<circle cx="510" cy="750" r="2" stroke="black" stroke-width="1"/>
+<circle cx="540" cy="750" r="2" stroke="black" stroke-width="1"/>
+<circle cx="570" cy="750" r="2" stroke="black" stroke-width="1"/>
+<rect x="570" y="750" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="600" cy="750" r="2" stroke="black" stroke-width="1"/>
+<circle cx="630" cy="750" r="2" stroke="black" stroke-width="1"/>
+<circle cx="660" cy="750" r="2" stroke="black" stroke-width="1"/>
+<circle cx="690" cy="750" r="2" stroke="black" stroke-width="1"/>
+<circle cx="720" cy="750" r="2" stroke="black" stroke-width="1"/>
+<circle cx="750" cy="750" r="2" stroke="black" stroke-width="1"/>
+<circle cx="780" cy="750" r="2" stroke="black" stroke-width="1"/>
+<circle cx="810" cy="750" r="2" stroke="black" stroke-width="1"/>
+<circle cx="840" cy="750" r="2" stroke="black" stroke-width="1"/>
+<circle cx="870" cy="750" r="2" stroke="black" stroke-width="1"/>
+<circle cx="900" cy="750" r="2" stroke="black" stroke-width="1"/>
+<circle cx="930" cy="750" r="2" stroke="black" stroke-width="1"/>
+<circle cx="960" cy="750" r="2" stroke="black" stroke-width="1"/>
+<circle cx="990" cy="750" r="2" stroke="black" stroke-width="1"/>
+<circle cx="90" cy="780" r="2" stroke="black" stroke-width="1"/>
+<rect x="90" y="780" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="120" cy="780" r="2" stroke="black" stroke-width="1"/>
+<circle cx="150" cy="780" r="2" stroke="black" stroke-width="1"/>
+<circle cx="180" cy="780" r="2" stroke="black" stroke-width="1"/>
+<circle cx="210" cy="780" r="2" stroke="black" stroke-width="1"/>
+<circle cx="240" cy="780" r="2" stroke="black" stroke-width="1"/>
+<circle cx="270" cy="780" r="2" stroke="black" stroke-width="1"/>
+<circle cx="300" cy="780" r="2" stroke="black" stroke-width="1"/>
+<circle cx="330" cy="780" r="2" stroke="black" stroke-width="1"/>
+<rect x="330" y="780" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="360" cy="780" r="2" stroke="black" stroke-width="1"/>
+<circle cx="390" cy="780" r="2" stroke="black" stroke-width="1"/>
+<circle cx="420" cy="780" r="2" stroke="black" stroke-width="1"/>
+<circle cx="450" cy="780" r="2" stroke="black" stroke-width="1"/>
+<circle cx="480" cy="780" r="2" stroke="black" stroke-width="1"/>
+<circle cx="510" cy="780" r="2" stroke="black" stroke-width="1"/>
+<circle cx="540" cy="780" r="2" stroke="black" stroke-width="1"/>
+<circle cx="570" cy="780" r="2" stroke="black" stroke-width="1"/>
+<circle cx="600" cy="780" r="2" stroke="black" stroke-width="1"/>
+<circle cx="630" cy="780" r="2" stroke="black" stroke-width="1"/>
+<circle cx="660" cy="780" r="2" stroke="black" stroke-width="1"/>
+<circle cx="690" cy="780" r="2" stroke="black" stroke-width="1"/>
+<circle cx="720" cy="780" r="2" stroke="black" stroke-width="1"/>
+<circle cx="750" cy="780" r="2" stroke="black" stroke-width="1"/>
+<circle cx="780" cy="780" r="2" stroke="black" stroke-width="1"/>
+<circle cx="810" cy="780" r="2" stroke="black" stroke-width="1"/>
+<circle cx="840" cy="780" r="2" stroke="black" stroke-width="1"/>
+<circle cx="870" cy="780" r="2" stroke="black" stroke-width="1"/>
+<circle cx="900" cy="780" r="2" stroke="black" stroke-width="1"/>
+<circle cx="930" cy="780" r="2" stroke="black" stroke-width="1"/>
+<circle cx="960" cy="780" r="2" stroke="black" stroke-width="1"/>
+<circle cx="990" cy="780" r="2" stroke="black" stroke-width="1"/>
+<circle cx="90" cy="810" r="2" stroke="black" stroke-width="1"/>
+<rect x="90" y="810" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="120" cy="810" r="2" stroke="black" stroke-width="1"/>
+<rect x="120" y="810" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="150" cy="810" r="2" stroke="black" stroke-width="1"/>
+<circle cx="180" cy="810" r="2" stroke="black" stroke-width="1"/>
+<circle cx="210" cy="810" r="2" stroke="black" stroke-width="1"/>
+<circle cx="240" cy="810" r="2" stroke="black" stroke-width="1"/>
+<circle cx="270" cy="810" r="2" stroke="black" stroke-width="1"/>
+<circle cx="300" cy="810" r="2" stroke="black" stroke-width="1"/>
+<rect x="300" y="810" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="330" cy="810" r="2" stroke="black" stroke-width="1"/>
+<rect x="330" y="810" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="360" cy="810" r="2" stroke="black" stroke-width="1"/>
+<circle cx="390" cy="810" r="2" stroke="black" stroke-width="1"/>
+<circle cx="420" cy="810" r="2" stroke="black" stroke-width="1"/>
+<circle cx="450" cy="810" r="2" stroke="black" stroke-width="1"/>
+<rect x="450" y="810" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="480" cy="810" r="2" stroke="black" stroke-width="1"/>
+<rect x="480" y="810" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="510" cy="810" r="2" stroke="black" stroke-width="1"/>
+<circle cx="540" cy="810" r="2" stroke="black" stroke-width="1"/>
+<circle cx="570" cy="810" r="2" stroke="black" stroke-width="1"/>
+<circle cx="600" cy="810" r="2" stroke="black" stroke-width="1"/>
+<rect x="600" y="810" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="630" cy="810" r="2" stroke="black" stroke-width="1"/>
+<circle cx="660" cy="810" r="2" stroke="black" stroke-width="1"/>
+<circle cx="690" cy="810" r="2" stroke="black" stroke-width="1"/>
+<rect x="690" y="810" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="720" cy="810" r="2" stroke="black" stroke-width="1"/>
+<circle cx="750" cy="810" r="2" stroke="black" stroke-width="1"/>
+<circle cx="780" cy="810" r="2" stroke="black" stroke-width="1"/>
+<rect x="780" y="810" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="810" cy="810" r="2" stroke="black" stroke-width="1"/>
+<circle cx="840" cy="810" r="2" stroke="black" stroke-width="1"/>
+<circle cx="870" cy="810" r="2" stroke="black" stroke-width="1"/>
+<circle cx="900" cy="810" r="2" stroke="black" stroke-width="1"/>
+<rect x="900" y="810" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="930" cy="810" r="2" stroke="black" stroke-width="1"/>
+<circle cx="960" cy="810" r="2" stroke="black" stroke-width="1"/>
+<circle cx="990" cy="810" r="2" stroke="black" stroke-width="1"/>
+<circle cx="90" cy="840" r="2" stroke="black" stroke-width="1"/>
+<rect x="90" y="840" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="120" cy="840" r="2" stroke="black" stroke-width="1"/>
+<circle cx="150" cy="840" r="2" stroke="black" stroke-width="1"/>
+<circle cx="180" cy="840" r="2" stroke="black" stroke-width="1"/>
+<rect x="180" y="840" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="210" cy="840" r="2" stroke="black" stroke-width="1"/>
+<circle cx="240" cy="840" r="2" stroke="black" stroke-width="1"/>
+<circle cx="270" cy="840" r="2" stroke="black" stroke-width="1"/>
+<circle cx="300" cy="840" r="2" stroke="black" stroke-width="1"/>
+<circle cx="330" cy="840" r="2" stroke="black" stroke-width="1"/>
+<circle cx="360" cy="840" r="2" stroke="black" stroke-width="1"/>
+<circle cx="390" cy="840" r="2" stroke="black" stroke-width="1"/>
+<circle cx="420" cy="840" r="2" stroke="black" stroke-width="1"/>
+<circle cx="450" cy="840" r="2" stroke="black" stroke-width="1"/>
+<circle cx="480" cy="840" r="2" stroke="black" stroke-width="1"/>
+<circle cx="510" cy="840" r="2" stroke="black" stroke-width="1"/>
+<circle cx="540" cy="840" r="2" stroke="black" stroke-width="1"/>
+<circle cx="570" cy="840" r="2" stroke="black" stroke-width="1"/>
+<circle cx="600" cy="840" r="2" stroke="black" stroke-width="1"/>
+<rect x="600" y="840" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="630" cy="840" r="2" stroke="black" stroke-width="1"/>
+<circle cx="660" cy="840" r="2" stroke="black" stroke-width="1"/>
+<circle cx="690" cy="840" r="2" stroke="black" stroke-width="1"/>
+<circle cx="720" cy="840" r="2" stroke="black" stroke-width="1"/>
+<circle cx="750" cy="840" r="2" stroke="black" stroke-width="1"/>
+<rect x="750" y="840" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="780" cy="840" r="2" stroke="black" stroke-width="1"/>
+<circle cx="810" cy="840" r="2" stroke="black" stroke-width="1"/>
+<circle cx="840" cy="840" r="2" stroke="black" stroke-width="1"/>
+<circle cx="870" cy="840" r="2" stroke="black" stroke-width="1"/>
+<rect x="870" y="840" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="900" cy="840" r="2" stroke="black" stroke-width="1"/>
+<circle cx="930" cy="840" r="2" stroke="black" stroke-width="1"/>
+<circle cx="960" cy="840" r="2" stroke="black" stroke-width="1"/>
+<circle cx="990" cy="840" r="2" stroke="black" stroke-width="1"/>
+<circle cx="90" cy="870" r="2" stroke="black" stroke-width="1"/>
+<circle cx="120" cy="870" r="2" stroke="black" stroke-width="1"/>
+<circle cx="150" cy="870" r="2" stroke="black" stroke-width="1"/>
+<circle cx="180" cy="870" r="2" stroke="black" stroke-width="1"/>
+<circle cx="210" cy="870" r="2" stroke="black" stroke-width="1"/>
+<circle cx="240" cy="870" r="2" stroke="black" stroke-width="1"/>
+<circle cx="270" cy="870" r="2" stroke="black" stroke-width="1"/>
+<circle cx="300" cy="870" r="2" stroke="black" stroke-width="1"/>
+<rect x="300" y="870" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="330" cy="870" r="2" stroke="black" stroke-width="1"/>
+<circle cx="360" cy="870" r="2" stroke="black" stroke-width="1"/>
+<rect x="360" y="870" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="390" cy="870" r="2" stroke="black" stroke-width="1"/>
+<circle cx="420" cy="870" r="2" stroke="black" stroke-width="1"/>
+<circle cx="450" cy="870" r="2" stroke="black" stroke-width="1"/>
+<circle cx="480" cy="870" r="2" stroke="black" stroke-width="1"/>
+<circle cx="510" cy="870" r="2" stroke="black" stroke-width="1"/>
+<rect x="510" y="870" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="540" cy="870" r="2" stroke="black" stroke-width="1"/>
+<circle cx="570" cy="870" r="2" stroke="black" stroke-width="1"/>
+<circle cx="600" cy="870" r="2" stroke="black" stroke-width="1"/>
+<circle cx="630" cy="870" r="2" stroke="black" stroke-width="1"/>
+<circle cx="660" cy="870" r="2" stroke="black" stroke-width="1"/>
+<circle cx="690" cy="870" r="2" stroke="black" stroke-width="1"/>
+<circle cx="720" cy="870" r="2" stroke="black" stroke-width="1"/>
+<circle cx="750" cy="870" r="2" stroke="black" stroke-width="1"/>
+<circle cx="780" cy="870" r="2" stroke="black" stroke-width="1"/>
+<circle cx="810" cy="870" r="2" stroke="black" stroke-width="1"/>
+<circle cx="840" cy="870" r="2" stroke="black" stroke-width="1"/>
+<circle cx="870" cy="870" r="2" stroke="black" stroke-width="1"/>
+<circle cx="900" cy="870" r="2" stroke="black" stroke-width="1"/>
+<circle cx="930" cy="870" r="2" stroke="black" stroke-width="1"/>
+<circle cx="960" cy="870" r="2" stroke="black" stroke-width="1"/>
+<rect x="960" y="870" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="990" cy="870" r="2" stroke="black" stroke-width="1"/>
+<circle cx="90" cy="900" r="2" stroke="black" stroke-width="1"/>
+<circle cx="120" cy="900" r="2" stroke="black" stroke-width="1"/>
+<circle cx="150" cy="900" r="2" stroke="black" stroke-width="1"/>
+<circle cx="180" cy="900" r="2" stroke="black" stroke-width="1"/>
+<circle cx="210" cy="900" r="2" stroke="black" stroke-width="1"/>
+<rect x="210" y="900" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="240" cy="900" r="2" stroke="black" stroke-width="1"/>
+<circle cx="270" cy="900" r="2" stroke="black" stroke-width="1"/>
+<circle cx="300" cy="900" r="2" stroke="black" stroke-width="1"/>
+<circle cx="330" cy="900" r="2" stroke="black" stroke-width="1"/>
+<circle cx="360" cy="900" r="2" stroke="black" stroke-width="1"/>
+<circle cx="390" cy="900" r="2" stroke="black" stroke-width="1"/>
+<circle cx="420" cy="900" r="2" stroke="black" stroke-width="1"/>
+<circle cx="450" cy="900" r="2" stroke="black" stroke-width="1"/>
+<circle cx="480" cy="900" r="2" stroke="black" stroke-width="1"/>
+<circle cx="510" cy="900" r="2" stroke="black" stroke-width="1"/>
+<rect x="510" y="900" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="540" cy="900" r="2" stroke="black" stroke-width="1"/>
+<circle cx="570" cy="900" r="2" stroke="black" stroke-width="1"/>
+<circle cx="600" cy="900" r="2" stroke="black" stroke-width="1"/>
+<rect x="600" y="900" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="630" cy="900" r="2" stroke="black" stroke-width="1"/>
+<circle cx="660" cy="900" r="2" stroke="black" stroke-width="1"/>
+<circle cx="690" cy="900" r="2" stroke="black" stroke-width="1"/>
+<circle cx="720" cy="900" r="2" stroke="black" stroke-width="1"/>
+<circle cx="750" cy="900" r="2" stroke="black" stroke-width="1"/>
+<circle cx="780" cy="900" r="2" stroke="black" stroke-width="1"/>
+<circle cx="810" cy="900" r="2" stroke="black" stroke-width="1"/>
+<rect x="810" y="900" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="840" cy="900" r="2" stroke="black" stroke-width="1"/>
+<circle cx="870" cy="900" r="2" stroke="black" stroke-width="1"/>
+<circle cx="900" cy="900" r="2" stroke="black" stroke-width="1"/>
+<circle cx="930" cy="900" r="2" stroke="black" stroke-width="1"/>
+<circle cx="960" cy="900" r="2" stroke="black" stroke-width="1"/>
+<rect x="960" y="900" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="990" cy="900" r="2" stroke="black" stroke-width="1"/>
+<circle cx="90" cy="930" r="2" stroke="black" stroke-width="1"/>
+<circle cx="120" cy="930" r="2" stroke="black" stroke-width="1"/>
+<circle cx="150" cy="930" r="2" stroke="black" stroke-width="1"/>
+<rect x="150" y="930" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="180" cy="930" r="2" stroke="black" stroke-width="1"/>
+<rect x="180" y="930" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="210" cy="930" r="2" stroke="black" stroke-width="1"/>
+<rect x="210" y="930" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="240" cy="930" r="2" stroke="black" stroke-width="1"/>
+<rect x="240" y="930" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="270" cy="930" r="2" stroke="black" stroke-width="1"/>
+<circle cx="300" cy="930" r="2" stroke="black" stroke-width="1"/>
+<circle cx="330" cy="930" r="2" stroke="black" stroke-width="1"/>
+<circle cx="360" cy="930" r="2" stroke="black" stroke-width="1"/>
+<circle cx="390" cy="930" r="2" stroke="black" stroke-width="1"/>
+<circle cx="420" cy="930" r="2" stroke="black" stroke-width="1"/>
+<circle cx="450" cy="930" r="2" stroke="black" stroke-width="1"/>
+<circle cx="480" cy="930" r="2" stroke="black" stroke-width="1"/>
+<circle cx="510" cy="930" r="2" stroke="black" stroke-width="1"/>
+<circle cx="540" cy="930" r="2" stroke="black" stroke-width="1"/>
+<rect x="540" y="930" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="570" cy="930" r="2" stroke="black" stroke-width="1"/>
+<circle cx="600" cy="930" r="2" stroke="black" stroke-width="1"/>
+<circle cx="630" cy="930" r="2" stroke="black" stroke-width="1"/>
+<circle cx="660" cy="930" r="2" stroke="black" stroke-width="1"/>
+<circle cx="690" cy="930" r="2" stroke="black" stroke-width="1"/>
+<rect x="690" y="930" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="720" cy="930" r="2" stroke="black" stroke-width="1"/>
+<rect x="720" y="930" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="750" cy="930" r="2" stroke="black" stroke-width="1"/>
+<rect x="750" y="930" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="780" cy="930" r="2" stroke="black" stroke-width="1"/>
+<circle cx="810" cy="930" r="2" stroke="black" stroke-width="1"/>
+<rect x="810" y="930" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="840" cy="930" r="2" stroke="black" stroke-width="1"/>
+<circle cx="870" cy="930" r="2" stroke="black" stroke-width="1"/>
+<circle cx="900" cy="930" r="2" stroke="black" stroke-width="1"/>
+<circle cx="930" cy="930" r="2" stroke="black" stroke-width="1"/>
+<circle cx="960" cy="930" r="2" stroke="black" stroke-width="1"/>
+<rect x="960" y="930" width="30" height="30" style="fill:black;fill-opacity:0.3;" />
+<circle cx="990" cy="930" r="2" stroke="black" stroke-width="1"/>
+<circle cx="90" cy="960" r="2" stroke="black" stroke-width="1"/>
+<circle cx="120" cy="960" r="2" stroke="black" stroke-width="1"/>
+<circle cx="150" cy="960" r="2" stroke="black" stroke-width="1"/>
+<circle cx="180" cy="960" r="2" stroke="black" stroke-width="1"/>
+<circle cx="210" cy="960" r="2" stroke="black" stroke-width="1"/>
+<circle cx="240" cy="960" r="2" stroke="black" stroke-width="1"/>
+<circle cx="270" cy="960" r="2" stroke="black" stroke-width="1"/>
+<circle cx="300" cy="960" r="2" stroke="black" stroke-width="1"/>
+<circle cx="330" cy="960" r="2" stroke="black" stroke-width="1"/>
+<circle cx="360" cy="960" r="2" stroke="black" stroke-width="1"/>
+<circle cx="390" cy="960" r="2" stroke="black" stroke-width="1"/>
+<circle cx="420" cy="960" r="2" stroke="black" stroke-width="1"/>
+<circle cx="450" cy="960" r="2" stroke="black" stroke-width="1"/>
+<circle cx="480" cy="960" r="2" stroke="black" stroke-width="1"/>
+<circle cx="510" cy="960" r="2" stroke="black" stroke-width="1"/>
+<circle cx="540" cy="960" r="2" stroke="black" stroke-width="1"/>
+<circle cx="570" cy="960" r="2" stroke="black" stroke-width="1"/>
+<circle cx="600" cy="960" r="2" stroke="black" stroke-width="1"/>
+<circle cx="630" cy="960" r="2" stroke="black" stroke-width="1"/>
+<circle cx="660" cy="960" r="2" stroke="black" stroke-width="1"/>
+<circle cx="690" cy="960" r="2" stroke="black" stroke-width="1"/>
+<circle cx="720" cy="960" r="2" stroke="black" stroke-width="1"/>
+<circle cx="750" cy="960" r="2" stroke="black" stroke-width="1"/>
+<circle cx="780" cy="960" r="2" stroke="black" stroke-width="1"/>
+<circle cx="810" cy="960" r="2" stroke="black" stroke-width="1"/>
+<circle cx="840" cy="960" r="2" stroke="black" stroke-width="1"/>
+<circle cx="870" cy="960" r="2" stroke="black" stroke-width="1"/>
+<circle cx="900" cy="960" r="2" stroke="black" stroke-width="1"/>
+<circle cx="930" cy="960" r="2" stroke="black" stroke-width="1"/>
+<circle cx="960" cy="960" r="2" stroke="black" stroke-width="1"/>
+<circle cx="990" cy="960" r="2" stroke="black" stroke-width="1"/>
+<line x1="90" y1="960" x2="210" y2="870" style="stroke:rgb(255,0,0);stroke-width:2" />
+<line x1="210" y1="870" x2="300" y2="780" style="stroke:rgb(255,0,0);stroke-width:2" />
+<line x1="300" y1="780" x2="450" y2="570" style="stroke:rgb(255,0,0);stroke-width:2" />
+<line x1="450" y1="570" x2="480" y2="540" style="stroke:rgb(255,0,0);stroke-width:2" />
+<line x1="480" y1="540" x2="540" y2="510" style="stroke:rgb(255,0,0);stroke-width:2" />
+<line x1="540" y1="510" x2="630" y2="420" style="stroke:rgb(255,0,0);stroke-width:2" />
+<line x1="630" y1="420" x2="720" y2="330" style="stroke:rgb(255,0,0);stroke-width:2" />
+<line x1="720" y1="330" x2="810" y2="240" style="stroke:rgb(255,0,0);stroke-width:2" />
+<line x1="810" y1="240" x2="840" y2="210" style="stroke:rgb(255,0,0);stroke-width:2" />
+<line x1="840" y1="210" x2="870" y2="150" style="stroke:rgb(255,0,0);stroke-width:2" />
+<line x1="870" y1="150" x2="990" y2="60" style="stroke:rgb(255,0,0);stroke-width:2" />
+
+<text x="90" y="980" text-anchor="centre" font-size="15px" fill="red">L=5.000000+4.242641+8.602325+1.414214+2.236068+4.242641+4.242641+4.242641+1.414214+2.236068+5.000000=42.873451</text>
+
+</svg>
